@@ -1,3 +1,5 @@
+package base;
+
 public class DanLianBiao {
     public static void main(String[] args) {
         HeroNode hero1 = new HeroNode(1,"宋江","及时雨");
@@ -58,7 +60,7 @@ class HeroNode{
 
     @Override
     public String toString() {
-        return "HeroNode{" +
+        return "base.HeroNode{" +
                 "no=" + no +
                 ", name='" + name + '\'' +
                 ", nickName='" + nickName + '\'' +

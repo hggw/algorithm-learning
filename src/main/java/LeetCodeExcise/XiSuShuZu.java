@@ -1,3 +1,5 @@
+package LeetCodeExcise;
+
 public class XiSuShuZu {
     public static void main(String[] args) {
         //0,1,2分别表示无子，白子，黑子

@@ -1,3 +1,5 @@
+package LeetCodeExcise;
+
 import java.util.Scanner;
 
 public class HuanXingDuiLie {
